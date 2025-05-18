@@ -1,178 +1,82 @@
+```md
+<h1 align="center">🤖 LMK-AGENT002-MD BOT</h1>
+
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗞𝗛𝗔𝗡-𝗠𝗗</h1>
+  <img src="https://img.shields.io/github/forks/LMK358/LMK-AGENT002-MD-?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/LMK358/LMK-AGENT002-MD-?style=flat-square" />
+  <img src="https://img.shields.io/github/license/LMK358/LMK-AGENT002-MD-?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  A powerful WhatsApp Multi-Device bot built with 💖 by LMK. <br>
+  Simple • Fast • Full of Features 🚀
 </p>
-
-<div align="center">
-  <a href="https://github.com/JawadYT36/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYT36?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/JawadYT36/KHAN-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KHAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
-</p>
-
-> **Current Bot Version `5.0.0`**  
 
 ---
 
-*Dont forget to fork & star repo*
+⚙️ Features
+
+- ✅ Ping, Alive, Menu
+- 📁 Plugins System
+- 🧠 Auto Reply, AFK
+- 🛡️ Anti-Link, Group Management
+- ⚡ Fast and Lightweight
 
 ---
 
-<div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
+📲 Get Session ID
 
-<div align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="400" style="border-radius: 20px; box-shadow: 0 0 25px #0088ff;"/>
-</div>
+To run this bot, you’ll need a valid `SESSION_ID`.
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
-</div>
+> 🔐 Use our session generator below:
 
-## 🛰️ Deployment Steps
+<p align="center"><a href="https://your-session-gen-url.com"><img src="https://img.shields.io/badge/Generate%20Session%20ID-green?style=for-the-badge&logo=whatsapp" /></a>
+</p>
 
-<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
-    
-<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
-  <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
-    <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
-  </a>
-</div>
+---
 
-</div>
+🚀 Deploy Your Own Bot
 
-<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-  
-<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
-  
---- 
-> **PAIRING LINK (01)**
-  <a href='https://khanxmd.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-  
-> **PAIRiNG LINK (02)**
-  <a href='https://jawadxmd.onrender.com/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-  
-  ---
-  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
-    Connection issues may require VPN activation
-  </p>
-</div>
+> Click below to fork and deploy this repo:
 
-</div>
+<p align="center">
+  <a href="https://github.com/LMK358/LMK-AGENT002-MD-/fork"><img src="https://img.shields.io/badge/Fork%20This%20Repo-blue?style=for-the-badge&logo=github" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
-</div>
+Then deploy to:
+- 🌐 [Render](https://render.com)
+- ☁️ [Koyeb](https://koyeb.com)
+- 🐳 Or run locally with `npm start`
 
-## 📡 DEPLOYMENT OPTIONS
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadYT36/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadYT36/KHAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-  </table>
-</div>
+📡 Community & Support
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j/1368" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
+> Join the channel for updates and help:
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
-</div>
+📢 WhatsApp Channel: [Join Now](https://whatsapp.com/channel/0029Vb9ssBR9Bb63aJcFcl3Q)
 
-## 🌟 BOT FEATURES
+---
 
-```bash
-✦ Antidelete, Antiviewonce, Antilink
-✦ High speed YT, Tiktok, FB, IG Downloaders
-✦ 10+ AI models + Image anlysis AI
-✦ Fast low latensie, Powerful
-✦ Futuristic Cool ICY UI
+⚠️ Disclaimer
+
+```md
+This project is for educational purposes only.  
+The owner is not responsible for any misuse.  
+Do not use this bot to spam or break platform rules.
 ```
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
-</div>
+---
 
-## 🪀  SUPPORT CHANNEL
+⭐ Credits
 
-<div align="center">
-  <a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
-  </a>
-</div>
+- Created by *LMK*
+- Inspired by MD WhatsApp bots
+- Powered by [`Baileys`](https://github.com/adiwajshing/Baileys)
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
-</div>
+---
 
-## ⚠️ WARNING !
+> 💖 Don’t forget to star this repo and follow the creator!
 
-<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
-  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
-</div>
 
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
-</div>
-
-## 🗃️ PROJECT ARCHITECTS
-<div align="center">
-  <a href="https://github.com/JawadYT36">
-    <img src="https://github-readme-stats.vercel.app/api?username=JawadYT36&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
-</div>
-
-## 👑 KHAN STATUS
-
-```diff
-+ Project Status: Active
-! Version: 5.0.0 Neon Edition
-# License: APACHE
-```
-
-<div align="center">
-  <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
-</div>
+---
