@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/forks/LMK358/LMK-AGENT002-MD-?style=flat-square" />
   <img src="https://img.shields.io/github/stars/LMK358/LMK-AGENT002-MD-?style=flat-square" />
-  <img src="https://img.shields.io/github/license/LMK358/LMK-AGENT002-MD-?style=flat-square" />
+  <img
+src="https://img.shields.io/github/license/LMK358/LMK-AGENT002-MD-?style=flat-square" />
 </p>
 
 <p align="center">
